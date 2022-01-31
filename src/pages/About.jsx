@@ -17,13 +17,11 @@ function About() {
             .
         </p>
         <p className='text-lg text-gray-400'>
-            Version <span className='text-white'>1.0.0</span>
+            Version <span className='text-warning'>1.0.0</span>
         </p>
         <p className='text-lg text-gray-400'>
-            Layout By:
-            <a className='text-white' href='https://twitter.com/hassibmoddasser'>
-                Adrijana Savić
-            </a>
+            Layout By: 
+            <a className='text-warning' href='https://www.linkedin.com/in/adrijana-savi%C4%87-50249176/'> Adrijana Savić</a>
         </p>
     </div>;
 }
