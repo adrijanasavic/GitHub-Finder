@@ -18,6 +18,9 @@ function UserItem({ user: { login, avatar_url } }) {
                     to={`/users/${login}`}>
                     Visite Profile
                 </Link>
+                <div>
+                    {/* <p src={url}></p> */}
+                </div>
             </div>
         </div>
     </div>
