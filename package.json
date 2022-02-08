@@ -41,5 +41,11 @@
             "last 1 firefox version",
             "last 1 safari version"
         ]
+    },
+    "devDependencies": {
+        "@babel/core": "^7.17.0",
+        "@babel/preset-env": "^7.16.11",
+        "babel-loader": "^8.2.3",
+        "postcss-dir-pseudo-class": "^6.0.4"
     }
 }
